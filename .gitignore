@@ -1,0 +1,13 @@
+# Ignore build artifacts
+/build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Exclude user-specific VSCode settings
+.vscode/settings.json
+
+# Exclude system files
+.DS_Store
+Thumbs.db
