@@ -1,0 +1,1 @@
+g++ -g D:/Coding/Nemo/src/*.cpp -o D:/Coding/Nemo/bin/myProject -ID:/Coding/Nemo/include -ID:/Coding/Vulkan/glfw-3.4.bin.WIN64/include -ID:/Coding/Vulkan/glm -ID:/Coding/Vulkan/VulkanSDK/1.3.290.0/Include -LD:/Coding/Vulkan/glfw-3.4.bin.WIN64/lib-mingw-w64 -LD:/Coding/Vulkan/VulkanSDK/1.3.290.0/Lib -lglfw3 -lvulkan-1 -lopengl32 -lgdi32
